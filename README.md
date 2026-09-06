@@ -54,5 +54,23 @@ I build tools that solve real problems — clean code, sharp focus, no noise.
 ---
 
 <div align="center">
+
+<sub>☕ If my work helped you, consider a small donation</sub>
+
+<br/>
+
+<img src="https://api.qrserver.com/v1/create-qr-code/?size=120x120&data=0xa641c3c59f00db6f6f976eb6dc1219e7b8279509" width="120" />
+
+<br/>
+
+<sub><code>0xa641c3c59f00db6f6f976eb6dc1219e7b8279509</code></sub>
+<br/>
+<sub>EVM · ETH · BSC · Polygon</sub>
+
+</div>
+
+---
+
+<div align="center">
 <sub>Less noise. More signal.</sub>
 </div>
