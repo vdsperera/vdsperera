@@ -46,8 +46,8 @@ I build tools that solve real problems — clean code, sharp focus, no noise.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=vdsperera&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vdsperera&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="40%" />
+<img src="https://streak-stats.demolab.com?user=vdsperera&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vdsperera&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" width="40%" />
 
 </div>
 
