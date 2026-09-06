@@ -8,9 +8,11 @@ I build tools that solve real problems — clean code, sharp focus, no noise.
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/vdsperera)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/vdsperera)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:vdsperera@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vidumini-sulochana-427a77118/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:kadvsperera@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-21759B?style=flat&logo=wordpress&logoColor=white)](https://ciegescitone.wordpress.com/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/ciege.scitone/)
+[![iNaturalist](https://img.shields.io/badge/iNaturalist-74AC00?style=flat&logo=inaturalist&logoColor=white)](https://www.inaturalist.org/people/cscitone)
 
 ---
 
