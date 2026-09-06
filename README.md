@@ -65,7 +65,7 @@ I build tools that solve real problems — clean code, sharp focus, no noise.
 
 <sub><code>0xa641c3c59f00db6f6f976eb6dc1219e7b8279509</code></sub>
 <br/>
-<sub>EVM · ETH · BSC · Polygon</sub>
+<sub>EVM · ETH · BSC · Polygon · Base · Arbitrum · Optimism · Avalanche</sub>
 
 </div>
 
