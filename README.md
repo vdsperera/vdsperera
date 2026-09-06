@@ -1,6 +1,6 @@
 <div align="center">
 
-# vdsperera
+# Vidumini Sulochana Perera
 
 **Software Engineer · Indie Builder in Python & AI Tooling**
 
