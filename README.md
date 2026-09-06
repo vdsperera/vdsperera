@@ -33,9 +33,12 @@ I build tools that solve real problems — clean code, sharp focus, no noise.
 
 | Project | Description |
 |:--------|:------------|
+| [**gdrive-download-utils**](https://github.com/vdsperera/gdrive-download-utils) | Python utility for searching & downloading from Google Drive with pluggable search strategies |
 | [**ai-dev-pipeline**](https://github.com/vdsperera/ai-dev-pipeline) | Reusable prompt agents for AI-assisted software development |
-| [**drift-detector**](https://github.com/vdsperera/drift-detector) | Monitoring tool for detecting data & model drift |
-| [**news-aggregator**](https://github.com/vdsperera/news-aggregrator) | AI-powered news aggregator with daily digest delivery |
+| [**viper-hunt**](https://github.com/vdsperera/viper-hunt) | Cyberpunk browser-based Snake game with bounty hunting & tactical attacks |
+| [**proof-of-concepts**](https://github.com/vdsperera/proof-of-concepts) | Collection of focused Python proofs-of-concept demonstrating patterns & techniques |
+| [**trustline**](https://github.com/vdsperera/trustline) | Whitelisted USDT lending pool smart contract — borrow, repay & track on-chain |
+| [**restaurant-rating-system**](https://github.com/vdsperera/restaurant-rating-system-django-backend) | Django backend for a restaurant rating platform |
 
 ---
 
