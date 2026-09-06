@@ -21,12 +21,12 @@ I build tools that solve real problems — clean code, sharp focus, no noise.
 ### What I Work With
 
 ![Python](https://img.shields.io/badge/Python-14151a?style=flat&logo=python&logoColor=3776AB)
+![JavaScript](https://img.shields.io/badge/JavaScript-14151a?style=flat&logo=javascript&logoColor=F7DF1E)
 ![Django](https://img.shields.io/badge/Django-14151a?style=flat&logo=django&logoColor=092E20)
-![FastAPI](https://img.shields.io/badge/FastAPI-14151a?style=flat&logo=fastapi&logoColor=009688)
-![TypeScript](https://img.shields.io/badge/TypeScript-14151a?style=flat&logo=typescript&logoColor=3178C6)
-![React](https://img.shields.io/badge/React-14151a?style=flat&logo=react&logoColor=61DAFB)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-14151a?style=flat&logo=python&logoColor=D71F00)
+![Solidity](https://img.shields.io/badge/Solidity-14151a?style=flat&logo=solidity&logoColor=363636)
+![Hardhat](https://img.shields.io/badge/Hardhat-14151a?style=flat&logo=hardhat&logoColor=FFF100)
 ![Docker](https://img.shields.io/badge/Docker-14151a?style=flat&logo=docker&logoColor=2496ED)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14151a?style=flat&logo=postgresql&logoColor=4169E1)
 ![Git](https://img.shields.io/badge/Git-14151a?style=flat&logo=git&logoColor=F05032)
 
 ---
